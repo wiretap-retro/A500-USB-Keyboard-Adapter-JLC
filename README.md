@@ -17,7 +17,8 @@ Demo Video: https://youtu.be/7yw0AOvhLqg  (original board shown, this repository
 * On the Bill of Materials page, upload the BOM from the JLCPCB folder in this repo, as well as the Pick-n-Place CPL file. Click "Process BOM & CPL".
 * Check to make sure all parts are available and click next, otherwise you have to substitute parts if a compatible part is in stock. (fit/form/function) Click next.
 * On the Component Placement screen, ensure all parts are oriented and placed properly. Pay attention to Pin 1 on the chips. Click next.
-* Choose the product type -- I recommend selecting "DIY". Save to cart and process your order.
+* Choose the product type -- I recommend selecting "DIY". Save to cart and process your order. You may have to speak with JLCPCB to confirm your component placements via Email before they fully process it.
+* Wait for your board to arrive.
 * Solder the hand soldered components onto the board in their appropriate locations.
 
 ## Flashing the Firmware
